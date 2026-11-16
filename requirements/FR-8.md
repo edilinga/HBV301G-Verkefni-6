@@ -23,7 +23,7 @@ Gabríel Orri Karlsson
 ### PT-FR-8-01
 **Krafa:** FR-8
 
-**Tegund:** Venjulegt
+**Tegund:** venjulegt
 
 **Forsendur og upphafsástand:** Til er beiðni um afleysingu með upplýsingum um vakt, upphaflega skráðan starfsmann og starfsmann sem óskar eftir að taka vaktina.
 
