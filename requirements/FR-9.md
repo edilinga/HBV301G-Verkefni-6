@@ -23,7 +23,7 @@ Gabríel Orri Karlsson
 ### PT-FR-9-01
 **Krafa:** FR-9
 
-**Tegund:** Venjulegt
+**Tegund:** venjulegt
 
 **Forsendur og upphafsástand:** Stjórnandi hefur aðgang að þremur beiðnum. Ein er í bið, önnur samþykkt og þeirri þriðju hefur verið hafnað.
 
