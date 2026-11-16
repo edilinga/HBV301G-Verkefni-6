@@ -24,7 +24,7 @@ Gabríel Orri Karlsson
 ### PT-FR-4-01
 **Krafa:** FR-4
 
-**Tegund:** Venjulegt
+**Tegund:** venjulegt
 
 **Forsendur og upphafsástand:** Ein vakt hefur verið sett í afleysingu og er enn laus. Önnur vakt hefur þegar verið tekin.
 
@@ -35,7 +35,7 @@ Gabríel Orri Karlsson
 ### PT-FR-4-02
 **Krafa:** FR-4
 
-**Tegund:** Jaðartilvik
+**Tegund:** jaðartilvik
 
 **Forsendur og upphafsástand:** Engar vaktir eru lausar til afleysingar.
 
