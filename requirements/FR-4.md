@@ -1,37 +1,44 @@
-# <auðkenni> – <stuttur titill>
 
-<!-- Afritið í requirements/<auðkenni>.md. Haldið ## fyrirsögnum óbreyttum.
-Krafa eftir yfirferð og próf eru hér; upphaflegur texti, mat og rökstuðningur í issue.
-Afritið ### prófakaflann til að bæta við prófum; gefið hverju prófi nýtt auðkenni. -->
+# FR-4 – Skoða lausar vaktir
 
 ## Auðkenni
-<stöðugt auðkenni, sama og skráarnafnið án .md>
+FR-4
 
 ## Yfirferðar-issue
-<!-- Setjið hér smellanlegan Markdown-tengil á yfirferðar-issue, t.d.:
-[Yfirferð kröfunnar – issue #12](https://github.com/HOPUR/SAFN/issues/12)
-Skiptið HOPUR, SAFN og 12 út fyrir rétt gildi. Notið heilan tengil;
-#12 eitt og sér verður ekki sjálfkrafa að issue-tengli í Markdown-skrá.
-Athugasemdin birtist aðeins í frumtexta skrárinnar, ekki í birtri útgáfu. -->
-<heill GitHub-tengill á issue þessarar upphaflegu kröfu í verkefni 6>
+[Yfirferð FR-4](https://github.com/edilinga/HBV301G-Verkefni-6/issues/8)
 
 ## Uppruni
-<auðkenni upphaflegu kröfunnar ef til og tengill í verkefni 1; við uppskiptingu einnig tengsl við upphaflega kröfu>
+FR-4 – [Verkefni 1](https://github.com/GabrielKalli/HBV301G-Verkefni-1)
 
 ## SRS-staðsetning
-<kafli eða undirkafli> – [SRS-yfirlit](../SRS-yfirlit.md)
+3.5.1 Lausar vaktir – [SRS-yfirlit](../SRS-yfirlit.md)
 
 ## Krafa eftir yfirferð
-<Skráið hér kröfutextann eftir yfirferð og mögulegar lagfæringar í verkefni 6, samkvæmt viðeigandi stílleiðbeiningum úr 12.1. Ef ekki þarf að breyta kröfunni, afritið upphaflega textann óbreyttan.>
+Kerfið skal sýna starfsmanni lista yfir vaktir sem hafa verið settar í afleysingu og eru enn lausar.
 
 ## Höfundur
-<fullt nafn>
+Gabríel Orri Karlsson
 
 ## Prófunartilvik
 
-### <einkvæmt auðkenni prófs, t.d. PT-FR-03-01>
-**Krafa:** <sama auðkenni og í Auðkenni>
-**Tegund:** <venjulegt, undantekning eða jaðartilvik>
-**Forsendur og upphafsástand:** <nauðsynleg skilyrði og staða áður en prófið hefst>
-**Aðgerð eða inntak:** <hvað er gert og með hvaða inntaki>
-**Vænt niðurstaða:** <sýnileg niðurstaða sem sannreynir þessa kröfu>
+### PT-FR-4-01
+**Krafa:** FR-4
+
+**Tegund:** Venjulegt
+
+**Forsendur og upphafsástand:** Ein vakt hefur verið sett í afleysingu og er enn laus. Önnur vakt hefur þegar verið tekin.
+
+**Aðgerð eða inntak:** Starfsmaður opnar lista yfir lausar vaktir.
+
+**Vænt niðurstaða:** Aðeins vaktin sem er enn laus birtist á listanum.
+
+### PT-FR-4-02
+**Krafa:** FR-4
+
+**Tegund:** Jaðartilvik
+
+**Forsendur og upphafsástand:** Engar vaktir eru lausar til afleysingar.
+
+**Aðgerð eða inntak:** Starfsmaður opnar lista yfir lausar vaktir.
+
+**Vænt niðurstaða:** Listinn inniheldur engar vaktir.
