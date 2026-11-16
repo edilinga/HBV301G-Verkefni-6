@@ -23,7 +23,7 @@ Gabríel Orri Karlsson
 ### PT-FR-7-01
 **Krafa:** FR-7
 
-**Tegund:** Venjulegt
+**Tegund:** venjulegt
 
 **Forsendur og upphafsástand:** Tvær óafgreiddar beiðnir tilheyra starfseiningu stjórnanda og ein óafgreidd beiðni tilheyrir annarri starfseiningu.
 
@@ -34,7 +34,7 @@ Gabríel Orri Karlsson
 ### PT-FR-7-02
 **Krafa:** FR-7
 
-**Tegund:** Jaðartilvik
+**Tegund:** jaðartilvik
 
 **Forsendur og upphafsástand:** Allar beiðnir í starfseiningu stjórnanda hafa verið afgreiddar.
 
