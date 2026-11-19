@@ -10,7 +10,7 @@ FR-3
 FR-3 – [Verkefni 1](https://github.com/GabrielKalli/HBV301G-Verkefni-1)
 
 ## SRS-staðsetning
-3.2 Virknikröfur – [SRS-yfirlit](../SRS-yfirlit.md)
+3.5.2 Yfirlit beiðna – [SRS-yfirlit](../SRS-yfirlit.md)
 
 ## Krafa eftir yfirferð
 Kerfið skal sýna starfsmanni stöðu hverrar beiðni hans um afleysingu sem annaðhvort „í bið“, „samþykkt“ eða „hafnað“.
@@ -33,3 +33,14 @@ Edil Inga Kristjánsdóttir
 **Forsendur og upphafsástand:** Starfsmaður er innskráður og á beiðni um afleysingu með stöðuna „hafnað“.
 **Aðgerð eða inntak:** Starfsmaður skoðar stöðu eigin beiðni.
 **Vænt niðurstaða:** Kerfið sýnir stöðuna „hafnað“.
+
+### PT-FR-3-03
+**Krafa:** FR-3
+
+**Tegund:** venjulegt
+
+**Forsendur og upphafsástand:** Starfsmaður er innskráður og á beiðni um afleysingu sem hefur stöðuna „samþykkt“.
+
+**Aðgerð eða inntak:** Starfsmaður skoðar stöðu eigin beiðni.
+
+**Vænt niðurstaða:** Kerfið sýnir stöðuna „samþykkt“.
