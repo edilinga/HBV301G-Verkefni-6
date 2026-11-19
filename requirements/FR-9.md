@@ -13,7 +13,7 @@ FR-9 – [Verkefni 1](https://github.com/GabrielKalli/HBV301G-Verkefni-1)
 3.5.2 Yfirlit beiðna – [SRS-yfirlit](../SRS-yfirlit.md)
 
 ## Krafa eftir yfirferð
-Kerfið skal sýna stjórnanda stöðu hverrar beiðni um vaktaskipti eða afleysingu sem hann hefur aðgang að. Staðan skal vera „í bið“, „samþykkt“ eða „hafnað“.
+Kerfið skal sýna stjórnanda stöðu hverrar beiðni um vaktaskipti eða afleysingu sem tilheyrir starfseiningu hans. Staðan skal vera „í bið“, „samþykkt“ eða „hafnað“.
 
 ## Höfundur
 Gabríel Orri Karlsson
@@ -30,3 +30,16 @@ Gabríel Orri Karlsson
 **Aðgerð eða inntak:** Stjórnandi skoðar stöðu beiðnanna.
 
 **Vænt niðurstaða:** Hver beiðni birtist með réttri stöðu: „í bið“, „samþykkt“ eða „hafnað“.
+
+
+### PT-FR-9-02
+**Krafa:** FR-9
+
+**Tegund:** undantekning
+
+**Forsendur og upphafsástand:** Tvær beiðnir eru skráðar í kerfinu. Önnur tilheyrir starfseiningu stjórnandans en hin tilheyrir annarri starfseiningu.
+
+**Aðgerð eða inntak:** Stjórnandi opnar yfirlit yfir stöðu beiðna.
+
+**Vænt niðurstaða:** Stjórnandi sér stöðu beiðninnar sem tilheyrir hans starfseiningu en sér ekki beiðnina úr hinni starfseiningunni.
+
